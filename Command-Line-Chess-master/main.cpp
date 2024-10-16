@@ -3,7 +3,7 @@
 
 int main()
 {
-<<<<<<< HEAD
+
     ChessBoard board;
     bool cont = true;
     string turn = "w";
@@ -12,15 +12,11 @@ int main()
 
     board.setupBoard();
     board.printBoard();
-=======
+
 
     ChessBoard chessBoard;
     chessBoard.setupBoard();
     chessBoard.printBoard();
-
-   
-
->>>>>>> master
 
     int x1, y1, x2, y2;
 
